@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/TghHNkB/web-development-php-mysql-html-xampp-logo-css-html-php-symbol-trademark-label-text-transparent-png-1.png" alt="LINGUAGENS" width="300">
 
-Este projeto consiste no desenvolvimento de um e-commerce completo utilizando PHP, MySQL, HTML, CSS/Bootstrap. O objetivo é criar uma loja virtual funcional, oferecendo aos usuários uma experiência de compra agradável e intuitiva.
+Este projeto consiste no desenvolvimento de um e-commerce completo utilizando JS, PHP, MySQL, HTML, CSS/Bootstrap. O objetivo é criar uma loja virtual funcional, oferecendo aos usuários uma experiência de compra agradável e intuitiva.
 
 ## Funcionalidades implementadas
 
