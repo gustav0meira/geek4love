@@ -1,0 +1,61 @@
+body{
+	background: #00538F;
+	font-family: Poppins;
+	font-weight: 300 !important;
+}
+
+div.login{
+	width: 25vw;
+	background: white;
+	border-radius: 15px;
+	padding: 30px;
+}
+
+input{
+	width: 100%;
+	padding: 10px;
+	font-size: 13px;
+	font-weight: 300;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border: 1px solid #666;
+}
+
+button{
+	width: 100%;
+	padding: 10px;
+	font-size: 14px;
+	border-radius: 10px;
+	background: #00538F;
+	border: 1px solid #00538F;
+	color: white;
+}
+
+.login{
+	position: absolute;
+	top: 25%;
+	left: 50%;
+	transform: translateY(-50%);
+	transform: translateX(-50%);
+}
+
+.login h3{
+	font-weight: 400;
+	font-size: 1.5rem;
+	text-align: left !important;
+}
+
+.login p{
+	text-align: left !important;
+	font-size: 14px;
+}
+
+form{
+	margin-bottom: 0px;
+}
+
+.login_error{
+	color: red !important;
+	margin-top: 20px;
+	margin-bottom: 0px !important;
+}
